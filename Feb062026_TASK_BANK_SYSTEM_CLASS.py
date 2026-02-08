@@ -12,7 +12,7 @@ class Bank12():
         
 t1=Bank12()
 
-t1.openAccount12(105,"Uma",6000)
+t1.openAccount12(105,"xyz",6000)
 t1.prntInputs12()
 
 print()
@@ -43,7 +43,7 @@ class Bank():
 
 b1=Bank()
 
-b1.accountDetails(105,"Ms. Uma Suryavanshi",6000)
+b1.accountDetails(105,"xyz",6000)
 
 while True:
     print("-"*50)
