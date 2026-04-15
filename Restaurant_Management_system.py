@@ -13,6 +13,7 @@ c_data.append(customer_contact)
 def punjabi():
 
             while True:
+                print("Here Is The Menu")
                 print("1. punjabi1")
                 print("2. punjabi2")
                 print("3. punjabi3")
@@ -57,6 +58,7 @@ def punjabi():
 def chinese():
 
     while True:
+                print("Here Is The Menu")
                 print("1. chinese1")
                 print("2. chinese2")
                 print("3. chinese3")
@@ -101,6 +103,7 @@ def chinese():
 def italian():
 
     while True:
+                print("Here Is The Menu")
                 print("1. italian1")
                 print("2. italian2")
                 print("3. italian3")
@@ -144,6 +147,7 @@ def italian():
 def gujarati():
 
     while True:
+                print("Here Is The Menu")
                 print("1. gujarati1")
                 print("2. gujarati2")
                 print("3. gujarati3")
@@ -187,6 +191,7 @@ def gujarati():
 def southindian():
 
     while True:
+                print("Here Is The Menu")
                 print("1. southindian1")
                 print("2. southindian2")
                 print("3. southindian3")
@@ -229,6 +234,7 @@ def southindian():
 
 while True:
     print("-"*50)
+    print("Select Preferred Cuisine")
     print("1. Punjabi")
     print("2. Chinese")
     print("3. Italian")
